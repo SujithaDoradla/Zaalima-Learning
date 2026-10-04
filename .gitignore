@@ -1,0 +1,22 @@
+# Environment / secrets
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Test / tooling
+.coverage
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
+
+# Local logs
+*.log
